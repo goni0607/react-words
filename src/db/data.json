@@ -1,0 +1,175 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    },
+    {
+      "day": 8,
+      "id": 8
+    },
+    {
+      "day": 9,
+      "id": 9
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": true
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "day": 3,
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": 2,
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": 4,
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": 4,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "1",
+      "eng": "Coffee",
+      "kor": "커피",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "chair",
+      "kor": "의자",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "5",
+      "eng": "wind",
+      "kor": "바람",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "5",
+      "eng": "phone",
+      "kor": "전화기",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "5",
+      "eng": "monday",
+      "kor": "월요일",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "5",
+      "eng": "tuesday",
+      "kor": "화요일",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "5",
+      "eng": "Wednesday",
+      "kor": "수요일",
+      "isDone": false,
+      "id": 18
+    },
+    {
+      "day": "5",
+      "eng": "Thursday",
+      "kor": "목요일",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "day": "5",
+      "eng": "Friday",
+      "kor": "금요일",
+      "isDone": false,
+      "id": 20
+    },
+    {
+      "day": "5",
+      "eng": "Saturday",
+      "kor": "토요일",
+      "isDone": false,
+      "id": 21
+    },
+    {
+      "day": "6",
+      "eng": "Six",
+      "kor": "육(6)",
+      "isDone": false,
+      "id": 22
+    }
+  ]
+}
